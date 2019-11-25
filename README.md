@@ -1,9 +1,8 @@
 # L'Atelier Masculin -  Site vitrine
 
-<img src="images/read_me.png" alt="atelier masculin" />
+<img src="img/read_me.png" alt="restauant le central" />
 
 Maquette et intégration réalisées en Html 5 / Css 3 / Jquery / Js
-=> https://hugoboxfr.github.io/atelier/
+=> https://hugoboxfr.github.io/central/
 
-© Hugo Prea - 2016
-# central
+© Hugo Prea - 2018
